@@ -54,7 +54,7 @@ public class StartFrame extends JFrame {
 					rdbtnMujer.setSelected(false);
 					rdbtnOtro.setSelected(false);
 				}
-				else { //Esta condici�n evita que se pueda deseleccionar el RadioButton.
+				else { //Esta condición evita que se pueda deseleccionar el RadioButton.
 					rdbtnHombre.setSelected(true);
 				}
 			}
@@ -69,7 +69,7 @@ public class StartFrame extends JFrame {
 					rdbtnHombre.setSelected(false);
 					rdbtnOtro.setSelected(false);
 				}
-				else { //Esta condici�n evita que se pueda deseleccionar el RadioButton.
+				else { //Esta condición evita que se pueda deseleccionar el RadioButton.
 					rdbtnMujer.setSelected(true);
 				}
 			}
@@ -84,7 +84,7 @@ public class StartFrame extends JFrame {
 					rdbtnHombre.setSelected(false);
 					rdbtnMujer.setSelected(false);
 				}
-				else { //Esta condici�n evita que se pueda deseleccionar el RadioButton.
+				else { //Esta condición evita que se pueda deseleccionar el RadioButton.
 					rdbtnOtro.setSelected(true);
 				}
 			}
