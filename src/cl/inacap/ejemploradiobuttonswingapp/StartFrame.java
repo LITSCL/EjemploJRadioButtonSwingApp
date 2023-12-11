@@ -13,7 +13,6 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
 public class StartFrame extends JFrame {
-
 	private JPanel contentPane;
 	private JRadioButton rdbtnHombre;
 	private JRadioButton rdbtnMujer;
